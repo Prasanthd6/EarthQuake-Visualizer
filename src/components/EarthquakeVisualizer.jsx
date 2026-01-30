@@ -238,6 +238,7 @@ export default function EarthquakeVisualizer() {
             className="control__field"
             placeholder="California, Japan..."
           />
+          <p>hello world</p>
         </div>
       </section>
 
